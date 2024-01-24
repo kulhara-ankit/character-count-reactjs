@@ -1,3 +1,8 @@
+![image](https://github.com/kulhara-ankit/character-count-reactjs/assets/146313680/ab78c31a-2a52-4402-bb7c-2e125ef43fa4)
+
+
+
+
 The goal of this coding exam is to quickly get you off the ground with **Lists and Keys** in React JS.
 
 ### Refer to the image below:
